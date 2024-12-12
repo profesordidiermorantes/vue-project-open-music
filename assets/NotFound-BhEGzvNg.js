@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as n,a as r}from"./index-BqwR6P-x.js";const s={data(){return{titulo:" Componente No encontrado. NOT FOUND. Error 404"}}},a={id:"divNotFound"},c=["innerHTML"];function d(_,i,p,u,o,l){return e(),n("div",a,[r("h1",{innerHTML:o.titulo},null,8,c)])}const N=t(s,[["render",d],["__scopeId","data-v-3722da11"]]);export{N as default};
